@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/10-salario-bonus/10-salario-bonus.iml" filepath="$PROJECT_DIR$/10-salario-bonus/10-salario-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-calculo-simples/11-calculo-simples.iml" filepath="$PROJECT_DIR$/11-calculo-simples/11-calculo-simples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-esfera/12-esfera.iml" filepath="$PROJECT_DIR$/12-esfera/12-esfera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-area/13-area.iml" filepath="$PROJECT_DIR$/13-area/13-area.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-area-do-circulo/3-area-do-circulo.iml" filepath="$PROJECT_DIR$/3-area-do-circulo/3-area-do-circulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-soma-simples/4-soma-simples.iml" filepath="$PROJECT_DIR$/4-soma-simples/4-soma-simples.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-produto-simples/5-produto-simples.iml" filepath="$PROJECT_DIR$/5-produto-simples/5-produto-simples.iml" />
