@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10-salario-bonus/10-salario-bonus.iml" filepath="$PROJECT_DIR$/10-salario-bonus/10-salario-bonus.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-area-do-circulo/3-area-do-circulo.iml" filepath="$PROJECT_DIR$/3-area-do-circulo/3-area-do-circulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-soma-simples/4-soma-simples.iml" filepath="$PROJECT_DIR$/4-soma-simples/4-soma-simples.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-produto-simples/5-produto-simples.iml" filepath="$PROJECT_DIR$/5-produto-simples/5-produto-simples.iml" />
       <module fileurl="file://$PROJECT_DIR$/6-media1/6-media1.iml" filepath="$PROJECT_DIR$/6-media1/6-media1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-media2/7-media2.iml" filepath="$PROJECT_DIR$/7-media2/7-media2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-diferenca/8-diferenca.iml" filepath="$PROJECT_DIR$/8-diferenca/8-diferenca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-salario/9-salario.iml" filepath="$PROJECT_DIR$/9-salario/9-salario.iml" />
       <module fileurl="file://$PROJECT_DIR$/beecrowd.iml" filepath="$PROJECT_DIR$/beecrowd.iml" />
     </modules>
   </component>
